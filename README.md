@@ -1,4 +1,4 @@
-### Hi there 👋 7778ggg
+### Hi there 👋
 
 <!--
 **korolkovDA/korolkovDA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
